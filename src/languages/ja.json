@@ -108,7 +108,7 @@
   "operations": "操作",
   "ops": "操作",
 
-  "operation.account.create": "作成されたアカウント{account}に残高は{balance}",
+  "operation.account.create": "作成されたアカウント{account}の残高は{balance}",
   "operation.account.merge": "アカウント{account}にマージ",
   "operation.bump": "シーケンスを{sequence}にバンプ",
   "operation.inflation": "インフレーション・ラン",
